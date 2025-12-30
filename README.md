@@ -113,16 +113,15 @@
 
 ## 🎮 Contribution Graph
 
-
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashshinde0080/yashshinde0080/output/pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashshinde0080/yashshinde0080/output/pacman.svg" />
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/yashshinde0080/yashshinde0080/output/pacman-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashshinde0080/yashshinde0080/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashshinde0080/yashshinde0080/output/snake.svg" />
+  <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/yashshinde0080/yashshinde0080/output/snake-dark.svg" width="100%" />
 </picture>
 
-</div>>
+</div>
 
 ---
 
