@@ -9,22 +9,24 @@ on:
       - main
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     
     steps:
-      - name: Generate Pacman SVG
-        uses: Platane/snk/svg-only@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Generate Pacman Animation
+        uses: aelassas/snk@main
         with:
           github_user_name: yashshinde0080
           outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+            dist/pacman.svg?color_snake=yellow&color_dots=#1e1e2e,#313244,#45475a,#585b70,#cdd6f4
+            dist/pacman-dark.svg?color_snake=yellow&palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Push to output branch
+          
+      - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
