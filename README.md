@@ -12,6 +12,7 @@ I build things that work, break them on purpose, and fix them properly.<br>Obses
 ![](https://nirzak-streak-stats.vercel.app/?user=yashshinde0080&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashshinde0080&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=catppuccin_mocha&show_icons=true)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yashshinde0080&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
