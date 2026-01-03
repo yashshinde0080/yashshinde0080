@@ -15,13 +15,21 @@
 </div>
 
 ---
-
-## 💫 About Me
-
-**Obsessed with clarity, allergic to overengineering, and constantly learning because stagnation is quiet failure.**
-
-*"Excellence is a continuous process, not an accident."*
-
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h2>💫 About Me</h2>
+      <p><strong>Obsessed with clarity. Allergic to overengineering. Constantly learning, because stagnation is a quiet failure.</strong></p>
+      <blockquote>
+        <em>"Excellence is a continuous process, not an accident."</em>
+      </blockquote>
+      <p>I focus on building things that are:</p>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" alt="Coding animation"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🌐 Socials
