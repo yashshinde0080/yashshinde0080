@@ -107,13 +107,9 @@
 
 </td>
 <td width="38.2%" align="center">
-
-
 <br/><br/>
 
-### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=yashshinde0080&limit=3&theme=catppuccin_mocha&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributions" width="100%" />
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZkdWJoYWduaGV4dDNoZ2VzdnY1OGNwcDBzeHlzaTI1ZXFza3hmbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xaO6TmgQmKEQ4516sE/giphy.gif" width="300" alt="Coding animation"/>
 </td>
 </tr>
 </table>
