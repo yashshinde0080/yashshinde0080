@@ -1,7 +1,3 @@
-<!-- ════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌟 GOLDEN RATIO LAYOUT: ~61.8% main content | ~38.2% supporting elements    -->
-<!-- ════════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:45475a&height=200&section=header&text=Yash%20Shinde&fontColor=cdd6f4&fontSize=50&fontAlignY=35&desc=Builder%20%7C%20Breaker%20%7C%20Problem%20Solver&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
@@ -142,5 +138,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:45475a,50:313244,100:1e1e2e&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
