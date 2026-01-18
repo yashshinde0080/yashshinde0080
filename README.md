@@ -115,7 +115,7 @@
 
 ![Trophies](https://github-profile-trophy-mirror.vercel.app/?username=yashshinde0080&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yashshinde0080show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yashshinde0080&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yashshinde0080&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&layout=compact)
