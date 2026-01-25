@@ -128,7 +128,8 @@
 </p>
 
 
-[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashshinde0080&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashshinde0080&theme=custom&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=f5c2e7&area_color=fab387&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div align="center">
 
