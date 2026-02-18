@@ -11,6 +11,7 @@
 </div>
 
 ---
+---
 
 <h1>Hiii, I’m <span style="color:#4D96FF;">Yash Shinde</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
@@ -30,6 +31,7 @@
 </table>
 
 ---
+---
 
 ## 🌐 Socials
 
@@ -41,6 +43,7 @@
 
 </div>
 
+---
 ---
 
 ## 💻 Tech Stack
@@ -93,6 +96,8 @@
 </table>
 
 ---
+---
+
 ## 📊 GitHub Stats
 
 <!-- Golden Ratio Stats Layout -->
@@ -119,6 +124,8 @@
 
 
 ---
+---
+
 
 ## 🎮 Contribution Graph
 
@@ -147,6 +154,7 @@
 
 </div>
 
+---
 ---
 
 <div align="center">
