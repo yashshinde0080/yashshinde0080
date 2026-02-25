@@ -9,8 +9,6 @@
 <br/>
 
 </div>
-
----
 ---
 
 <h1>Hiii, I’m <span style="color:#4D96FF;">Yash Shinde</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
@@ -29,8 +27,6 @@
     </td>
   </tr>
 </table>
-
----
 ---
 
 ## 🌐 Socials
@@ -42,8 +38,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syash0080@gmail.com)
 
 </div>
-
----
 ---
 
 ## 💻 Tech Stack
@@ -94,8 +88,6 @@
 </td>
 </tr>
 </table>
-
----
 ---
 
 ## 📊 GitHub Stats
@@ -122,8 +114,6 @@
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yashshinde0080&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-
----
 ---
 
 
@@ -154,7 +144,6 @@
 
 </div>
 
----
 ---
 
 <div align="center">
