@@ -119,10 +119,6 @@
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yashshinde0080&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 
-
-[![My GitFut card](https://gitfut.com/yashshi nde0080.png)](https://gitfut.com/yashshinde0080)
-
-
 ---
 
 
