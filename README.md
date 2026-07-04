@@ -103,7 +103,10 @@
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=yashshinde0080&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak" width="100%" />
+<!-- <img src="https://nirzak-streak-stats.vercel.app/?user=yashshinde0080&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak" width="100%" /> -->
+
+
+<a href="https://gitfut.com/yashshinde0080"><img src="https://gitfut.com/yashshinde0080.png" width="240" alt="GitFut card"></a>
 
 </td>
 <td width="38.2%" align="center">
