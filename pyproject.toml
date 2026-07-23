@@ -1,0 +1,16 @@
+[project]
+name = "yashshinde0080"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "numpy<2",
+    "onnxruntime<1.20.0",
+    "pillow>=11.3.0",
+    "rembg>=2.0.61",
+    "requests>=2.32.5",
+    "setuptools<70",
+    "numba>=0.60.0",
+    "llvmlite>=0.43.0",
+]

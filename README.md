@@ -1,16 +1,4 @@
 <div align="center">
-  <!-- Lanyard and Banner Layout -->
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=2">
-    <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=2">
-    <img src="banner.svg?v=2" alt="Animated Banner" width="100%">
-  </picture>
-  <br/>
-  <img src="lanyard.svg?v=2" alt="Swinging Lanyard" width="250">
-</div>
-<br/>
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:45475a&height=200&section=header&text=Yash%20Shinde&fontColor=cdd6f4&fontSize=50&fontAlignY=35&desc=Builder%20%7C%20Breaker%20%7C%20Problem%20Solver&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
@@ -37,6 +25,16 @@
     </td>
     <td width="35%" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" alt="Coding animation"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=2">
+        <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=2">
+        <img src="banner.svg?v=2" alt="Animated Banner" width="100%">
+      </picture>
     </td>
   </tr>
 </table>
@@ -122,9 +120,9 @@
 
 </td>
 <td width="38.2%" align="center">
-<br/><br/>
+<br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZkdWJoYWduaGV4dDNoZ2VzdnY1OGNwcDBzeHlzaTI1ZXFza3hmbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xaO6TmgQmKEQ4516sE/giphy.gif" width="300" alt="Coding animation"/>
+<img src="lanyard.svg?v=2" alt="Swinging Lanyard" width="220">
 </td>
 </tr>
 </table>

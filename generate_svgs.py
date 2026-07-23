@@ -490,21 +490,19 @@ def update_readme():
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
 
-    injection = """<div align="center">
-  <!-- Lanyard and Banner Layout -->
+    injection = """<!-- BANNER:profile-header -->
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
     <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
     <img src="banner.svg?v=1" alt="Animated Banner" width="100%">
   </picture>
-  <br/>
-  <img src="lanyard.svg?v=1" alt="Swinging Lanyard" width="250">
 </div>
 <br/>
 
 """
 
-    if "<!-- Lanyard and Banner Layout -->" not in content:
+    if "<!-- BANNER:profile-header -->" not in content:
         content = injection + content
 
         def replacer(m):
