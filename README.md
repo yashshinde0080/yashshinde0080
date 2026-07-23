@@ -1,4 +1,16 @@
 <div align="center">
+  <!-- Lanyard and Banner Layout -->
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=2">
+    <img src="banner.svg?v=2" alt="Animated Banner" width="100%">
+  </picture>
+  <br/>
+  <img src="lanyard.svg?v=2" alt="Swinging Lanyard" width="250">
+</div>
+<br/>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:45475a&height=200&section=header&text=Yash%20Shinde&fontColor=cdd6f4&fontSize=50&fontAlignY=35&desc=Builder%20%7C%20Breaker%20%7C%20Problem%20Solver&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
