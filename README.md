@@ -12,6 +12,19 @@
 
 ---
 
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=2">
+        <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=2">
+        <img src="banner.svg?v=2" alt="Animated Banner" width="100%">
+      </picture>
+    </td>
+  </tr>
+
+---
+
 <h1>Hiii, I’m <span style="color:#4D96FF;">Yash Shinde</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <table>
@@ -25,16 +38,6 @@
     </td>
     <td width="35%" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" alt="Coding animation"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br/>
-      <picture>
-        <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=2">
-        <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=2">
-        <img src="banner.svg?v=2" alt="Animated Banner" width="100%">
-      </picture>
     </td>
   </tr>
 </table>
